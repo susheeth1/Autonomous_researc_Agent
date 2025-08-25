@@ -1,0 +1,8 @@
+python-dotenv
+requests
+beautifulsoup4
+google-search-results
+openai
+twilio
+Flask
+fpdf2[markdown]
